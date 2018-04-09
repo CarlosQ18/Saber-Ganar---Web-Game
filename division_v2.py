@@ -9,7 +9,7 @@ def division_v2():
     try:
       a=int(input("Digite el numerador"))
     except ValueError:
-      print("Digite nuevamente lel numerador")
+      print("Digite nuevamente el numerador")
     else:
       bandera1=False
   while bandera2:

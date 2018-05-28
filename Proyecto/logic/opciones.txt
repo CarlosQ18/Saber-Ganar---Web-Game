@@ -1,0 +1,15 @@
+id,id_pregunta,opcion
+0,0,nada
+1,0,una serie de operaciones matematicas
+2,0,un celular
+3,0,igualdad entre dos expresiones que contiene una o mas variables
+4,1,2
+5,1,4
+6,2,un microbio
+7,2,unidad atomica fundamental de los seres vivos
+8,2,un bebe
+9,2,un globulo blanco
+10,3,un determinante
+11,3,un conector
+12,4,u
+13,4,e

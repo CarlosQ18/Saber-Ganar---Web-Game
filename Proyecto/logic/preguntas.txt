@@ -1,0 +1,6 @@
+id,materia,grado,pregunta
+0,kinder,0,Que es una ecuacion?
+1,kinder,0,Cuanto es 1+1?
+2,kinder,0,Que es una celula?
+3,kinder,0,Que es un articulo?
+4,kinder,0,La vocal despues de la a es...

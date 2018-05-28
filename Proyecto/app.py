@@ -15,7 +15,6 @@ from logic.pregunta_vista import*
 import json
 app=Flask(__name__,static_folder='static')
 correo=""
-d=[]
 @app.route('/')
 def index():
         return render_template('Ingreso.html')

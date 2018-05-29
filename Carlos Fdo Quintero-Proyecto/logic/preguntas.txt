@@ -1,0 +1,59 @@
+id,materia,grado,pregunta
+0,kinder,0,Que es una ecuacion?
+1,kinder,0,Cuanto es 1+1?
+2,kinder,0,Que es una celula?
+3,kinder,0,Que es un articulo?
+4,kinder,0,La vocal despues de la a es...
+5,primero,1,Despues de la B es..
+6,primero,1,Cuanto es 2+2?
+7,primero,1,La capital de Colombia es...
+8,primero,1,Que es una docena?
+9,primero,1,Rojo+Amarillo es...
+10,segundo,2,Cuanto es 2*1?
+11,segundo,2,La luna es un satelite?
+12,segundo,2,Cuanto es 101-100?
+13,segundo,2,Cuanto es 10 elevado a la 2...
+14,tercero,3,Que es una ecuacion?
+15,tercero,3,Cuanto es 1+1?
+16,tercero,3,Que es una celula?
+17,tercero,3,Que es un articulo?
+18,tercero,3,La vocal despues de la a es...
+19,cuarto,4,Despues de la B es..
+20,cuarto,4,Cuanto es 2+2?
+21,cuarto,4,La capital de Colombia es...
+22,cuarto,4,Que es una docena?
+23,cuarto,4,Rojo+Amarillo es...
+24,quinto,5,Cuanto es 2*1?
+25,quinto,5,La luna es un satelite?
+26,quinto,5,Cuanto es 101-100?$
+27,quinto,5,Cuanto es 10 elevado a la 2...
+28,sexto,6,Que es una ecuacion?
+29,sexto,6,Cuanto es 1+1?
+30,sexto,6,Que es una celula?
+31,sexto,6,Que es un articulo?
+32,sexto,6,La vocal despues de la a es...
+33,septimo,7,Despues de la B es..
+34,septimo,7,Cuanto es 2+2?
+35,septimo,7,La capital de Colombia es...
+36,septimo,7,Que es una docena?
+37,septimo,7,Rojo+Amarillo es...
+38,octavo,8,Cuanto es 2*1?
+39,octavo,8,La luna es un satelite?
+40,octavo,8,Cuanto es 101-100?$
+41,octavo,8,Cuanto es 10 elevado a la 2...
+42,octavo,8,Que es una ecuacion?
+43,noveno,9,Cuanto es 1+1?
+44,noveno,9,Que es una celula?
+45,noveno,9,Que es un articulo?
+46,noveno,9,La vocal despues de la a es...
+47,noveno,9,Despues de la B es..
+48,decimo,10,Cuanto es 2+2?
+49,decimo,10,La capital de Colombia es...
+50,decimo,10,Que es una docena?
+51,decimo,10,Rojo+Amarillo es...
+52,decimo,10,Cuanto es 2*1?
+53,once,11,La luna es un satelite?
+54,once,11,Cuanto es 101-100?$
+55,once,11,Cuanto es 10 elevado a la 2...
+56,once,11,Que es una ecuacion?
+57,once,11,Cuanto es 1+1?

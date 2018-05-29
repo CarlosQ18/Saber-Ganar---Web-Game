@@ -1,0 +1,41 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Sign up</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/estilo2.css')}}" method='POST'>
+	</head>
+	<body>
+		<form action="{{url_for('registrar')}}" method='POST' class="registro">
+			<h2>Registro</h2>
+			<input type="text" name="nombre" placeholder="Nombre">
+			<input type="text" name="correo" placeholder="Correo">
+			<input type="password" name="password" placeholder="Contraseña">
+			<input type="text" name="codigo" placeholder="Código">
+			<input type="text" name="edad" placeholder="Edad">
+			<div>
+				<Font size=5 color=#fff>Grado: </Font>
+				<select name="grado">
+					<option value="0">Kinder</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+					<option value="11">11</option>
+				</select>
+			</div>
+
+			<input type="submit" value="Registrar" id="Registrar">
+
+		</form>
+		<form action="{{url_for('logout')}}" class='salida' method="POST">
+			<input type="submit" value="Cerrar sesión" id="logout">
+		</form>
+	</body>
+</html>

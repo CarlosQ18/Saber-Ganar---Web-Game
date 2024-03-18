@@ -1,2 +1,0 @@
-correo,vidas,aciertos                                                                                            
-CarlosQ,5,0
